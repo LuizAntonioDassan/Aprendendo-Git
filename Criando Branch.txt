@@ -1,3 +1,17 @@
 git branch // mostra todas as branch existentes
 git branch <novo> \\ cria uma nova branch
 git checkout <name> \\ troca a branch atual
+
+
+__________ !!IMPORTANTE!! _______
+
+Sempre antes de fazer o merge, realizar um
+$ git pull
+para puxar as atualizações da nuvem
+para a maquina e não realizar o merge em uma
+versão antiga do código.
+
+_____ Merge ____
+1° mudar para branch que vai sofrer a auteração
+git checkout <branch>
+2° git mergin <branch> com a qual vai ser fundida
