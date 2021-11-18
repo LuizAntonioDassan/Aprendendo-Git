@@ -1,2 +1,7 @@
 $ git commit -m "commit inicial" 
 $ git config --globar user.email "seu@email"s
+
+// quando vai subir os arquivos pra nuvem
+
+git remote add
+git push // pra subir os arquivos
