@@ -1,0 +1,2 @@
+$ git reflog // para ver o histórico de versões
+$ git reset --hard <ID da versão que aparece no reflog>
