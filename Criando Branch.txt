@@ -1,0 +1,3 @@
+git branch // mostra todas as branch existentes
+git branch <novo> \\ cria uma nova branch
+git checkout <name> \\ troca a branch atual
