@@ -1,0 +1,2 @@
+$ git commit -m "commit inicial" 
+$ git config --globar user.email "seu@email"s
